@@ -1,0 +1,7 @@
+Desarrollar el juego "Piedra, Papel o Tijera" siguiendo las siguientes referencias:
+
+1 → Piedra.
+2 → Papel.
+3 → Tijera.
+
+Aclaración: Los ingresos de los jugadores deben ser válidos. 
